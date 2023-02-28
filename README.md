@@ -11,6 +11,10 @@
 
 * 💻 I'm a full stack web developer
 * 🎓 I'm a Computer Science student
+* 
+Hello! I introduce myself, my name is Francisco, I am 29 years old. Passionate about technology since I was little, then I did my undergraduate studies in systems, I managed to function professionally in the IT and development field.
+Providing service to companies such as Grupo Randazzo, Sonda, YPF, Edelap.
+I am currently working as a web developer, I also manage other businesses,
 
 ## 🔥 My contribution streak
 
