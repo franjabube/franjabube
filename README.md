@@ -15,7 +15,7 @@
 ## 🔥 My contribution streak
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <a href="https://github.com/Franjabube/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Franjabube#version3"/>
   </a>
 </p>
