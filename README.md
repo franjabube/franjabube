@@ -56,6 +56,12 @@
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
                 </a>
             </td>
+          <td>
+                <a href="#">
+                    <img alt="React" title="React" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+                </a>
+            </td>
         </tr>
         <tr>
             <td>
